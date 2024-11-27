@@ -1,0 +1,4 @@
+repository "BrotatoLike@tj_senmiaovhp@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
